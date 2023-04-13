@@ -92,6 +92,9 @@
     "pg-native": {
       "optional": true
     },
+    "pg-query-stream": {
+      "optional": true
+    },
     "sqlite3": {
       "optional": true
     },
